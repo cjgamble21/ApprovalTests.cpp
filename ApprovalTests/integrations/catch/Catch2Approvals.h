@@ -17,7 +17,7 @@
 // begin-snippet: required_headers_for_catch
 #include <catch2/catch_test_case_info.hpp>
 #include <catch2/reporters/catch_reporter_event_listener.hpp>
-#include <catch2/reporters/catch_reporter_registrar.hpp>
+#include <catch2/reporters/catch_reporter_registrars.hpp>
 #include <catch2/catch_test_macros.hpp>
 // end-snippet
 
