@@ -14,7 +14,7 @@
 #ifdef APPROVALS_CATCH
 #define APPROVAL_TESTS_INCLUDE_CPPS
 
-// begin-snippet: required_header_for_catch
+// begin-snippet: required_headers_for_catch
 #include <catch2/catch_test_case_info.hpp>
 #include <catch2/reporters/catch_reporter_event_listener.hpp>
 #include <catch2/reporters/catch_reporter_registrar.hpp>
